@@ -57,7 +57,7 @@ public class Tela extends Canvas implements CommandListener, ItemStateListener {
         int larguraTPreta = (largura / 2) + (largura / 8);
         int angTBranca = 5, marca = 0, largMarcaB = 0, largMarcaP = 0;
 
-        //Fundo preto
+        //Fundo preto!!!
         g.setColor(0, 0, 0);
         g.fillRect(0, 0, largura, altura);
 
