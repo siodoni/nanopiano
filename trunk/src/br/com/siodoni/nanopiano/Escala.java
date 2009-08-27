@@ -2,6 +2,10 @@ package br.com.siodoni.nanopiano;
 
 import javax.microedition.media.Manager;
 
+/**
+ *
+ * @author Flavio Augusto Siodoni Ximenes
+ */
 public class Escala {
 
     public static final int MAIOR_OITAVA = 48, MENOR_OITAVA = -24;
