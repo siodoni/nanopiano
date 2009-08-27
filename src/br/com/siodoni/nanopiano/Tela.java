@@ -2,6 +2,10 @@ package br.com.siodoni.nanopiano;
 
 import javax.microedition.lcdui.*;
 
+/**
+ *
+ * @author Flavio Augusto Siodoni Ximenes
+ */
 public class Tela extends Canvas implements CommandListener, ItemStateListener {
 
     private Piano piano;
